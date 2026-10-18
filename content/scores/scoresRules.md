@@ -50,6 +50,7 @@ zipLabel: 实验报告Latex模板
 * Assignment2
   * [2.1](https://box.nju.edu.cn/u/d/a4d1e3e449f9454b8d58/)
 * Assignment3
+  * [提交入口](https://box.nju.edu.cn/u/d/a927a77a89fc41b5830d/)
 
 ## 查询个人成绩
 
@@ -65,6 +66,8 @@ zipLabel: 实验报告Latex模板
   - [总分]()
 - Assignment_2_1:
   - [成绩查询](https://table.nju.edu.cn/dtable/links/a0e501c5caf44b71b423)
+- Assignment_3:
+  - [成绩查询](https://table.nju.edu.cn/dtable/links/558f7648778c4a34bc77)
 
 ## 申请复核
 
